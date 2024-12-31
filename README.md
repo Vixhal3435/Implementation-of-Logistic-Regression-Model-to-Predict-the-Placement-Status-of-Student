@@ -62,7 +62,11 @@ from sklearn.metrics import classification_report
  lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 ## Output:
-[experiment no.05(ML).pdf](https://github.com/user-attachments/files/17848456/experiment.no.05.ML.pdf)
+
+![image](https://github.com/user-attachments/assets/368cb835-48e9-45ff-9cb9-ee3444d6a949)
+![image](https://github.com/user-attachments/assets/36776c8c-23d4-4021-b22d-07e6dd345170)
+![image](https://github.com/user-attachments/assets/84bae896-1239-4ab5-8c0f-9d96ac794613)
+![image](https://github.com/user-attachments/assets/56d261b7-a85b-4894-80e3-212bf2345a7e)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
